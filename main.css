@@ -22,19 +22,19 @@ input{
     cursor: pointer;
 }
 .img1{
-    background-image: url(imagens/1.jpg);
+    background-image: url(1.jpg);
 }
 .img2{
-    background-image: url(imagens/2.jpg);
+    background-image: url(2.jpg);
 }
 .img3{
-    background-image: url(imagens/3.jpg);
+    background-image: url(3.jpg);
 }
 .img4{
-    background-image: url(imagens/4.jpg);
+    background-image: url(4.jpg);
 }
 .img5{
-    background-image: url(imagens/5.jpg);
+    background-image: url(5.jpg);
 }
 .imagem{
     position: absolute;
